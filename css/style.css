@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#row{
+ width: 100%;
+ float: left;
+}
+.container {
+    width:90%;
+    margin: auto;
+}
+.logo-part {
+ width:30%;
+ background-color: blue;
+ float: left;
+}
+.logo-part img {
+    width:30%;
+}
+.menu-part {
+ width:40%;
+ background-color: chartreuse;
+ float: left;
+}
+.menu-part ul {
+
+}
+.menu-part li {
+
+}
+.menu-part a {
+
+}
+.search-part {
+ width:30%;
+ background-color: aqua;
+ float: left;
+}
+#hero {
+    width: 100%;
+}
+.hero-writing-part {
+ width: 50%;
+ float: left;
+}
+.hero-img-part {
+ width: 50%;
+ float: left;
+}
+.hero-img-part img {
+ height:500px;
+}
